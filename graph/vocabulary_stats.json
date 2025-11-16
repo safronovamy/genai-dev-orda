@@ -1,0 +1,127 @@
+{
+  "vocabulary_stats": [
+    {
+      "term": "Generative AI",
+      "explicit_count": 12,
+      "implicit_count": 7,
+      "implicit_examples": [
+        "Descriptions of multimodal models",
+        "Discussions of text, code, or image generation capabilities",
+        "References to AI systems used across domains"
+      ]
+    },
+    {
+      "term": "Prompt",
+      "explicit_count": 1,
+      "implicit_count": 4,
+      "implicit_examples": [
+        "Risk of leaking secrets through input text",
+        "Need for high-quality instructions in marketing use cases",
+        "Discussions of controlling outputs through input context"
+      ]
+    },
+    {
+      "term": "Hallucinate APIs",
+      "explicit_count": 1,
+      "implicit_count": 5,
+      "implicit_examples": [
+        "Model generating incorrect code",
+        "Incorrect or overly confident answers in customer support",
+        "Subtle errors in summarization and documentation generation"
+      ]
+    },
+    {
+      "term": "Copilot",
+      "explicit_count": 5,
+      "implicit_count": 6,
+      "implicit_examples": [
+        "General-purpose assistants embedded in productivity tools",
+        "Developer AI companions",
+        "Automated support for repetitive office tasks"
+      ]
+    },
+    {
+      "term": "Retrieval-augmented generation (RAG)",
+      "explicit_count": 2,
+      "implicit_count": 7,
+      "implicit_examples": [
+        "Systems grounded in internal knowledge bases",
+        "Enterprise assistants accessing internal documents",
+        "Descriptions of combining LLMs with structured data sources"
+      ]
+    },
+    {
+      "term": "AI agent",
+      "explicit_count": 4,
+      "implicit_count": 6,
+      "implicit_examples": [
+        "Virtual agents handling customer service queries",
+        "Automated workflow execution in enterprise platforms",
+        "Autonomous assistants performing multi-step tasks"
+      ]
+    },
+    {
+      "term": "Factual distortions",
+      "explicit_count": 2,
+      "implicit_count": 6,
+      "implicit_examples": [
+        "Incorrect or misleading AI-generated summaries",
+        "False answers in support interactions",
+        "Tone or factual inconsistencies in marketing content"
+      ]
+    },
+    {
+      "term": "Large knowledge graphs",
+      "explicit_count": 1,
+      "implicit_count": 3,
+      "implicit_examples": [
+        "Latency challenges when querying large internal datasets",
+        "Difficulty integrating diverse enterprise data sources"
+      ]
+    },
+    {
+      "term": "Training data",
+      "explicit_count": 2,
+      "implicit_count": 5,
+      "implicit_examples": [
+        "Mentions of licensing or copyright risks",
+        "Concerns about data quality and lineage",
+        "Issues arising from model bias or contaminated datasets"
+      ]
+    },
+    {
+      "term": "Text-to-image generator",
+      "explicit_count": 1,
+      "implicit_count": 4,
+      "implicit_examples": [
+        "References to Firefly, Midjourney, GPT-4o image features",
+        "Discussions of creative visual generation workflows"
+      ]
+    },
+    {
+      "term": "LLM (Large Language Model)",
+      "explicit_count": 3,
+      "implicit_count": 9,
+      "implicit_examples": [
+        "All sections describing model-driven automation",
+        "Descriptions of assistants powered by foundation models",
+        "Technical challenges around hallucinations and grounding"
+      ]
+    },
+    {
+      "term": "AI assistant",
+      "explicit_count": 6,
+      "implicit_count": 8,
+      "implicit_examples": [
+        "Copilot-style productivity helpers",
+        "Customer-service automated responders",
+        "Assistants embedded into office and enterprise workflows"
+      ]
+    }
+  ],
+  "summary": {
+    "total_terms": 12,
+    "total_explicit_mentions": 40,
+    "total_implicit_mentions": 70
+  }
+}
